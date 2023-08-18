@@ -1,10 +1,6 @@
 import { ThemeSwitcher } from '../components/ThemeSwitcher';
 
 const Page = () => {
-  return (
-    <>
-      <ThemeSwitcher />
-    </>
-  );
+  return <></>;
 };
 export default Page;
