@@ -1,4 +1,4 @@
-import Products from '../containers/products-container/Products';
+import Products from '../../containers/products-container/Products';
 
 export async function getServerSideProps() {
   const res = await fetch(`https://fakestoreapi.com/products`);
